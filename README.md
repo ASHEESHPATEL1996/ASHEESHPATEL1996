@@ -1,4 +1,4 @@
-### Hi there 👋, Asheesh Patel
+### Hi there 👋, I'm Asheesh Patel
 #### Python, Data Analytics, Data Science
 I'm Asheesh Patel. I do Data Analytics, Machine learning and Algorithmic Trading. I enjoy learning new things about Quantitative Finance, and new frameworks of Python.
 
