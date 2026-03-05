@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Asheesh Patel
 #### I am a Python Developer
-I do Data Analytics, Machine learning and Algorithmic Trading. I enjoy learning new things about Quantitative Finance, and new frameworks of Python.
+I do Data Analytics, Machine learning and Algorithmic Trading. I enjoy learning new things about Quantitative Finance and new frameworks in Python.
 
 ## Skills
-Python, Excel, PowerBi, SQL, Git, EDA, Machine Learning, Algorithmic Trading,
+Python, Excel, Power BI, SQL, Git, EDA, Machine Learning, Algorithmic Trading, Generative AI, Agentic AI, Finetuning LLM
 
-- 🔭 I’m currently working on Algorithmic Trading 
-- 🌱 I’m currently learning MLOps 
+- 🔭 I'm currently working on Algorithmic Trading 
+- 🌱 I'm currently learning MLOps 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asheeshpatel1996)  
